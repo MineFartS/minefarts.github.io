@@ -34,5 +34,11 @@
         "icon": "stackoverflow.svg",
         "user": "MineFartS",
         "link": "https://stackoverflow.com/users/7128053/minefarts"
+    },
+    {
+        "title": "Planet Minecraft",
+        "icon": "planetminecraft.svg",
+        "user": "TronicPhil",
+        "link": "https://www.planetminecraft.com/member/tronicphil/"
     }
 ]
