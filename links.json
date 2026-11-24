@@ -1,0 +1,38 @@
+[
+    {
+        "title": "LinkedIn",
+        "icon": "linkedin.png",
+        "user": "[User]",
+        "link": "[Link]"
+    },
+    {
+        "title": "GitHub",
+        "icon": "github.png",
+        "user": "MineFartS",
+        "link": "https://github.com/MineFartS"
+    },
+    {
+        "title": "Credly",
+        "icon": "credly.png",
+        "user": "[User]",
+        "link": "[Link]"
+    },
+    {
+        "title": "HackerRank",
+        "icon": "hackerrank.png",
+        "user": "[User]",
+        "link": "[Link]"
+    },
+    {
+        "title": "Replit",
+        "icon": "replit.png",
+        "user": "[User]",
+        "link": "[Link]"
+    },
+    {
+        "title": "Instagram",
+        "icon": "instagram.png",
+        "user": "[User]",
+        "link": "[Link]"
+    }
+]
