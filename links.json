@@ -58,5 +58,11 @@
         "icon": "quora.png",
         "user": "MineFartS",
         "link": "https://www.quora.com/profile/MineFartS/"
+    },
+    {
+        "title": "Medium",
+        "icon": "medium.png",
+        "user": "MineFartS",
+        "link": "https://medium.com/@minefarts"
     }
 ]
