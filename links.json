@@ -28,5 +28,11 @@
         "icon": "youtube.png",
         "user": "Melanie & Hailey",
         "link": "https://www.youtube.com/@MelanieandHailey"
+    },
+    {
+        "title": "Stack Overflow",
+        "icon": "stackoverflow.svg",
+        "user": "MineFartS",
+        "link": "https://stackoverflow.com/users/7128053/minefarts"
     }
 ]
