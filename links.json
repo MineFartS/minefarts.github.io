@@ -52,5 +52,11 @@
         "icon": "roblox.jpg",
         "user": "PhilHiv",
         "link": "https://www.roblox.com/users/167904979/profile/"
+    },
+    {
+        "title": "Quora",
+        "icon": "quora.png",
+        "user": "MineFartS",
+        "link": "https://www.quora.com/profile/MineFartS/"
     }
 ]
