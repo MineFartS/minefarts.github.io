@@ -1,5 +1,11 @@
 [
     {
+        "title": "Email",
+        "icon": "imail.svg",
+        "user": "philiphuntiv@gmail.com",
+        "link": "mailto:philiphuntiv@gmail.com"
+    },
+    {
         "title": "LinkedIn",
         "icon": "linkedin.png",
         "user": "Philip Hunt",
