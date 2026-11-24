@@ -16,5 +16,17 @@
         "icon": "reddit.png",
         "user": "philtrondaboss",
         "link": "https://www.reddit.com/user/philtrondaboss"
+    },
+    {
+        "title": "YouTube",
+        "icon": "youtube.png",
+        "user": "Mr Philthy",
+        "link": "https://www.youtube.com/@MrPhilthy"
+    },
+    {
+        "title": "YouTube",
+        "icon": "youtube.png",
+        "user": "Melanie & Hailey",
+        "link": "https://www.youtube.com/@MelanieandHailey"
     }
 ]
