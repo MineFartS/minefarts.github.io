@@ -40,5 +40,11 @@
         "icon": "planetminecraft.svg",
         "user": "TronicPhil",
         "link": "https://www.planetminecraft.com/member/tronicphil/"
+    },
+    {
+        "title": "Fortnite",
+        "icon": "fortnite.jpg",
+        "user": "MineFartS",
+        "link": "https://www.fortnite.com/@minefarts"
     }
 ]
